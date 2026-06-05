@@ -1,3 +1,4 @@
+#program to display ATm stimulation
 balance = 10000
 
 while True:
