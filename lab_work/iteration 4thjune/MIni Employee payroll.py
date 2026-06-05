@@ -35,5 +35,5 @@ print("HRA:", hra)
 print("DA:", da)
 print("PF Deduction:", pf)
 print("Gross Salary:", gross_salary)
-print("Net Salary:", net_salary)
-print("Grade:", grade) ** 
+print("Net Salary:", net_salary) 
+print("Grade:", grade) 
