@@ -38,7 +38,6 @@ for name, score in [(e[1], e[2]) for e in employees]:
         
         
         
-#count the number of employee who need improvement (score below 60)
-#print("count the number of employee who need improvement (score below 60)")
+
 
 
